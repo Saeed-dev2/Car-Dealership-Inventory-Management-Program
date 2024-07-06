@@ -100,7 +100,6 @@ Do you want to see details of another car? (y/n): n
 
 This code was written by `M.Saeed`.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
