@@ -55,7 +55,7 @@ Fills in the details of a `Car` structure.
 gcc main.c -o car_inventory
 ```
 
-- Run the program :
+- Run the program:
 ```
 ./car_inventory
 ```
